@@ -1,0 +1,18 @@
+[submodule "libs/AndroidLogcatStdouts"]
+	path = libs/AndroidLogcatStdouts
+	url = git@github.com:NFeoTools/AndroidLogcatStdouts.git
+[submodule "libs/FgKardia"]
+	path = libs/FgKardia
+	url = git@github.com:Feographia/FgKardia.git
+[submodule "libs/HtmlGrapheas"]
+	path = libs/HtmlGrapheas
+	url = git@github.com:HtmlGrapheas/HtmlGrapheas.git
+[submodule "libs/HtmlGrapheasKamva"]
+	path = libs/HtmlGrapheasKamva
+	url = git@github.com:HtmlGrapheas/HtmlGrapheasKamva.git
+[submodule "libs/LibCMaker"]
+	path = libs/LibCMaker
+	url = git@github.com:LibCMaker/LibCMaker.git
+[submodule "libs/litehtml"]
+	path = libs/litehtml
+	url = git@github.com:HtmlGrapheas/litehtml.git
