@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/AndroidLogcatStdouts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/HtmlGrapheas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/HtmlGrapheasKamva" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/LibCMaker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/litehtml" vcs="Git" />
+  </component>
+</project>
